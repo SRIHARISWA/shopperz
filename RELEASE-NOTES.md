@@ -1,6 +1,6 @@
 Release changes in version 2.0.5
 
-
+--to check CI Integration
 - Spring Data JPA
 - Removal of QueryDSL
 - Upgrade of Infinispan
